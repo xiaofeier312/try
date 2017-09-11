@@ -1,0 +1,2 @@
+import practise1
+practise1.Person.__dict__
